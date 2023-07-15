@@ -10,7 +10,7 @@
     <a href="https://github.com/prashantjagtap2909/Dice"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/prashantjagtap2909/Dice">View Demo</a>
+    <a href="https://prashantjagtap2909.github.io/Dice/">View Demo</a>
     .
     <a href="https://github.com/prashantjagtap2909/Dice/issues">Report Bug</a>
     .
