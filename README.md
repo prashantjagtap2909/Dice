@@ -35,7 +35,6 @@
 
 A simple Dice game created using random module.
 
-## View Demo
 
 
 ## Built With
