@@ -76,10 +76,5 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **Prashant Jagtap** - *Comper Engineering Student* - [Prashant Jagtap](https://github.com/prashantjagtap2909/) - **
+* [Prashant Jagtap](https://github.com/prashantjagtap2909/) - **
 
-## Acknowledgements
-
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
