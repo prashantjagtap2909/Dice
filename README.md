@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/prashantjagtap2909/Dice">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Two_red_dice_01.svg/1007px-Two_red_dice_01.svg.png?20060623205908" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">A dice game </h3>
@@ -24,8 +24,8 @@
 
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Installation](#installation)
+
+* [Installation](#installation)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [Authors](#authors)
@@ -35,16 +35,19 @@
 
 A simple Dice game created using random module.
 
+## View Demo
+
+
 ## Built With
 
-HTML
-CSS
-Javascript
-
-## Getting Started
+  - HTML
+  - CSS
+  - Javascript
 
 
-### Installation
+
+
+## Installation
 
 
  Clone the repo
