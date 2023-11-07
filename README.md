@@ -78,5 +78,5 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* [Prashant Jagtap](https://github.com/prashantjagtap2909/) - **
+* [Prashant Jagtap](https://github.com/prashantjagtap2909/) - 
 
