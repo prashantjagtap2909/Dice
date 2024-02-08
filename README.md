@@ -4,7 +4,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Two_red_dice_01.svg/1007px-Two_red_dice_01.svg.png?20060623205908" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">A dice game </h3>
+  <h3 align="center">A dice game </h3> [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprashantjagtap2909%2FDice&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
   <p align="center">
     <a href="https://github.com/prashantjagtap2909/Dice"><strong>Explore the docs »</strong></a>
